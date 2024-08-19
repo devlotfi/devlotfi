@@ -8,7 +8,7 @@ I'm Debbal Lotfi, Full-Stack Web Developer
 
 <img src="https://skillicons.dev/icons?i=react,tailwind&perline=5" />
 
-##. Back-End
+## Back-End
 
 <img src="https://skillicons.dev/icons?i=nodejs,nest,spring,django,redis,postgres&perline=5" />
 
