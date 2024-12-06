@@ -6,16 +6,35 @@ I'm Debbal Lotfi, Full-Stack Web Developer
 # 💻 What technologies i use
 ## Front-End
 
-<img src="https://skillicons.dev/icons?i=react,tailwind&perline=5" />
+<p float="left">
+  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/react.svg">
+  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/tailwind.svg">
+</p>
 
 ## Back-End
 
-<img src="https://skillicons.dev/icons?i=nodejs,nest,spring,django,redis,postgres&perline=5" />
+<p float="left">
+  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/nodejs.svg">
+  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/nestjs.svg">
+  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/django.svg">
+  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/redis.svg">
+  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/postgres.svg">
+</p>
 
 ## Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,typescript,python,java&perline=5" />
+<p float="left">
+  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/html.svg">
+  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/css.svg">
+  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/ts.svg">
+  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/python.svg">
+  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/java.svg">
+</p>
+
 
 ## Other
 
-<img src="https://skillicons.dev/icons?i=arduino,graphql&perline=5" />
+<p float="left">
+  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/arduino.svg">
+  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/graphql.svg">
+</p>
