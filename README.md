@@ -7,34 +7,34 @@ I'm Debbal Lotfi, Full-Stack Web Developer
 ## Front-End
 
 <p float="left">
-  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/react.svg">
-  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/tailwind.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/react.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/tailwind.svg">
 </p>
 
 ## Back-End
 
 <p float="left">
-  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/nodejs.svg">
-  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/nestjs.svg">
-  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/django.svg">
-  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/redis.svg">
-  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/postgres.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/nodejs.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/nestjs.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/django.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/redis.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/postgres.svg">
 </p>
 
 ## Languages
 
 <p float="left">
-  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/html.svg">
-  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/css.svg">
-  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/ts.svg">
-  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/python.svg">
-  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/java.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/html.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/css.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/ts.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/python.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/java.svg">
 </p>
 
 
 ## Other
 
 <p float="left">
-  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/arduino.svg">
-  <img height="50px" src="https://github.com/devlotfi/stack-icons/blob/main/icons/graphql.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/arduino.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/graphql.svg">
 </p>
