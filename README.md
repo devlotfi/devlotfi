@@ -1,7 +1,7 @@
 # 👋 Hi, i am Debbal Lotfi
 I'm Debbal Lotfi, Full-Stack Web Developer
 
-🌐 You can check my portfolio here: [devlotfi.github.io/portfolio-v1](https://devlotfi.github.io/portfolio-v1/)
+🌐 You can check my portfolio here: [devlotfi.github.io/portfolio-v2](https://devlotfi.github.io/portfolio-v2/)
 
 # 💻 What technologies i use
 ## Front-End
