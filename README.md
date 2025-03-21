@@ -9,6 +9,7 @@ I'm Debbal Lotfi, Full-Stack Web Developer
 <p float="left">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/react.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/tailwind.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/expo.svg">
 </p>
 
 ## Back-End
@@ -16,9 +17,11 @@ I'm Debbal Lotfi, Full-Stack Web Developer
 <p float="left">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/nodejs.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/nestjs.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/asp-dotnet-core.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/django.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/redis.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/postgres.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/mongodb.svg">
 </p>
 
 ## Languages
@@ -29,6 +32,7 @@ I'm Debbal Lotfi, Full-Stack Web Developer
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/ts.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/python.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/java.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/cs.svg">
 </p>
 
 
@@ -37,4 +41,5 @@ I'm Debbal Lotfi, Full-Stack Web Developer
 <p float="left">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/arduino.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/graphql.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/figma.svg">
 </p>
