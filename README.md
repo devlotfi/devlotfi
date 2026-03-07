@@ -10,6 +10,7 @@ I'm Debbal Lotfi, Full-Stack Web Developer
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/react.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/tailwind.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/expo.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/electron.svg">
 </p>
 
 ## Back-End
@@ -19,9 +20,7 @@ I'm Debbal Lotfi, Full-Stack Web Developer
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/nestjs.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/asp-dotnet-core.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/django.svg">
-  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/redis.svg">
-  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/postgres.svg">
-  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/mongodb.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/cloudflare.svg">
 </p>
 
 ## Languages
@@ -33,13 +32,23 @@ I'm Debbal Lotfi, Full-Stack Web Developer
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/python.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/java.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/cs.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/cpp.svg">
 </p>
 
+## IOT
+
+<p float="left">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/arduino.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/espressif.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/mqtt.svg">
+</p>
 
 ## Other
 
 <p float="left">
-  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/arduino.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/graphql.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/figma.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/docker.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/kubernetes.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/containerlab.svg">
 </p>
