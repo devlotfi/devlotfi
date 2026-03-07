@@ -35,7 +35,7 @@ I'm Debbal Lotfi, Full-Stack Web Developer
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/cpp.svg">
 </p>
 
-## IOT
+## Embedded & IOT
 
 <p float="left">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/arduino.svg">
