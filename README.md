@@ -41,6 +41,7 @@ I'm Debbal Lotfi, Full-Stack Web Developer
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/arduino.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/espressif.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/mqtt.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/lvgl.svg">
 </p>
 
 ## Other
