@@ -47,9 +47,10 @@ I'm Debbal Lotfi, Full-Stack Web Developer
 ## Other
 
 <p float="left">
-  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/graphql.svg">
-  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/figma.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/linux.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/docker.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/kubernetes.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/containerlab.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/figma.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/graphql.svg">
 </p>
