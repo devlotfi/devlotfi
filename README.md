@@ -8,9 +8,10 @@ I'm Debbal Lotfi, Full-Stack Web Developer
 
 <p float="left">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/react.svg">
-  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/tailwind.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/expo.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/tailwind.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/electron.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/jetpack-compose.svg">
 </p>
 
 ## Back-End
@@ -30,6 +31,7 @@ I'm Debbal Lotfi, Full-Stack Web Developer
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/css.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/ts.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/python.svg">
+  <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/kotlin.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/java.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/cs.svg">
   <img height="50px" src="https://devlotfi.github.io/stack-icons/icons/cpp.svg">
